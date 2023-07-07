@@ -1,4 +1,4 @@
-If you wanna train the model, it will require 2 directories namely 'train' and 'test1'. These directories are supposed to contain images of cats and dogs, but because it doesn't track large files, I haven't included those directories(folders). 
+If you wanna train the model, it will require 2 directories namely 'train' and 'test1'. These directories are supposed to contain images of cats and dogs, but because git doesn't track large files, I haven't included those directories(folders). 
 
 'train' directory:
 	This directory should contain images of cats and dogs in the following format - cat.123.jpg , cat.4312.png , dog.123.jpg ,dog.3214.png
